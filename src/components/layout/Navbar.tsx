@@ -35,9 +35,9 @@ export function Navbar() {
             alt="Loving-Sai-Clinc-Logo" 
             className="h-[46px] w-auto object-contain" 
           />
-          <div className="hidden sm:flex flex-col">
-            <span className="font-display font-bold text-xl text-text tracking-tight leading-tight">Loving Sai Clinic</span>
-            <span className="text-sm font-semibold text-primary leading-tight">Dr. T. Sameer Nandan</span>
+          <div className="flex flex-col">
+            <span className="font-display font-bold text-lg sm:text-xl text-text tracking-tight leading-tight">Loving Sai Clinic</span>
+            <span className="text-xs sm:text-sm font-semibold text-primary leading-tight">Dr. T. Sameer Nandan</span>
           </div>
         </Link>
 
