@@ -37,7 +37,7 @@ function App() {
         {/* Floating WhatsApp Button */}
         <div className="fixed bottom-[88px] md:bottom-6 right-6 z-50">
           <a 
-            href="https://wa.me/919573609720" 
+            href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" 
             target="_blank" 
             rel="noreferrer"
             className="group relative flex items-center justify-center w-14 h-14 bg-green-500 hover:bg-green-600 focus:ring-4 focus:ring-green-500/30 text-white rounded-full shadow-xl hover:shadow-2xl hover:scale-110 transition-all duration-300"
@@ -55,12 +55,12 @@ function App() {
 
         {/* Mobile Sticky Bottom Conversion Bar */}
         <div className="md:hidden fixed bottom-0 left-0 right-0 bg-white shadow-[0_-4px_20px_rgba(0,0,0,0.08)] z-[60] border-t border-surface-container flex justify-around p-3 items-center gap-3">
-          <a href="tel:+919573609720" className="flex-1">
+          <a href="tel:+919494837432" className="flex-1">
             <button className="w-full bg-blue-600 text-white hover:bg-blue-700 rounded-xl px-4 py-3 shadow-md transition duration-300 font-medium text-sm flex items-center justify-center gap-2">
               <Phone size={18} /> Call Now
             </button>
           </a>
-          <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="flex-1">
+          <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="flex-1">
             <button className="w-full bg-green-500 text-white hover:bg-green-600 rounded-xl px-4 py-3 shadow-md transition duration-300 font-medium text-sm flex items-center justify-center gap-2">
               <MessageCircle size={18} /> WhatsApp
             </button>

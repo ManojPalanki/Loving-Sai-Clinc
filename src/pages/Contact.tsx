@@ -79,9 +79,9 @@ export function Contact() {
                   <Phone size={24} />
                 </div>
                 <h3 className="text-xl font-bold font-display mb-2 text-text">Call Clinic</h3>
-                <p className="text-text-muted mb-6 text-lg font-medium">+91 9573609720</p>
+                <p className="text-text-muted mb-6 text-lg font-medium">+91 9494837432</p>
               </div>
-                  <a href="tel:+919573609720" className="w-full sm:w-auto">
+                  <a href="tel:+919494837432" className="w-full sm:w-auto">
                     <button className="w-full sm:w-auto bg-white text-[#004ac6] hover:bg-gray-100 rounded-xl px-8 py-4 shadow-xl font-bold text-lg transition-all transform hover:-translate-y-1">
                       Call Now
                     </button>
@@ -97,7 +97,7 @@ export function Contact() {
                 <h3 className="text-xl font-bold font-display mb-2 text-text">Chat on WhatsApp</h3>
                 <p className="text-text-muted mb-6 text-lg font-medium">Fastest response times</p>
               </div>
-              <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="block w-full mt-6">
+              <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="block w-full mt-6">
                 <button className="w-full bg-green-500 text-white hover:bg-green-600 rounded-xl px-6 py-3 shadow-md font-medium transition-colors">
                   Chat on WhatsApp
                 </button>
@@ -199,7 +199,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-text text-lg">Phone</h4>
-                    <p className="text-text-muted mt-1 leading-relaxed">+91 9573609720</p>
+                    <p className="text-text-muted mt-1 leading-relaxed">+91 9494837432</p>
                   </div>
                 </div>
                 
@@ -263,17 +263,17 @@ export function Contact() {
             </div>
             
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
-              <a href="tel:+919573609720" className="w-full sm:w-auto">
+              <a href="tel:+919494837432" className="w-full sm:w-auto">
                 <button className="bg-white text-[#004ac6] hover:bg-[#faf8ff] hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center inline-flex items-center">
                   <Phone size={20} /> Call Now
                 </button>
               </a>
-              <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+              <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                 <Button variant="whatsapp" className="font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center hover:-translate-y-1 transition-all">
                   <MessageCircle size={20} /> WhatsApp
                 </Button>
               </a>
-              <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+              <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                 <Button className="bg-white/10 backdrop-blur-md border border-white/20 text-white hover:bg-white/20 hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center">
                   Book Appointment <ArrowRight size={20} />
                 </Button>

@@ -61,7 +61,7 @@ export function Home() {
 
               {/* CTAs */}
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                   <Button variant="primary" className="gap-2 w-full justify-center">
                     Book Appointment <ArrowRight size={18} />
                   </Button>
@@ -69,7 +69,7 @@ export function Home() {
                 <Button variant="secondary" className="shrink-0">
                   Our Services
                 </Button>
-                <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                   <Button variant="whatsapp" className="w-full gap-2">
                     <MessageCircle size={18} /> Chat on WhatsApp
                   </Button>
@@ -275,7 +275,7 @@ export function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg text-text mb-1">Phone Number</h4>
-                    <p className="text-text-muted">+91 9573609720</p>
+                    <p className="text-text-muted">+91 9494837432</p>
                   </div>
                 </div>
                 
@@ -338,17 +338,17 @@ export function Home() {
               </div>
               
               <div className="flex flex-col sm:flex-row justify-center gap-4">
-                <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                   <button className="bg-white text-[#004ac6] hover:bg-[#faf8ff] hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full inline-flex items-center justify-center">
                     Book Appointment
                   </button>
                 </a>
-                <a href="tel:+919573609720" className="w-full sm:w-auto">
+                <a href="tel:+919494837432" className="w-full sm:w-auto">
                   <Button className="bg-white/10 backdrop-blur-md border border-white/20 text-white hover:bg-white/20 hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center">
                     <Phone size={20} /> Call Now
                   </Button>
                 </a>
-                <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                   <Button variant="whatsapp" className="font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center hover:-translate-y-1 transition-all">
                     <MessageCircle size={20} /> WhatsApp
                   </Button>

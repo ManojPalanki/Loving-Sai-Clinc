@@ -52,7 +52,7 @@ export function Navbar() {
               {link.name}
             </Link>
           ))}
-          <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="hidden md:flex">
+          <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="hidden md:flex">
             <Button variant="primary" className="gap-2">
               <Phone size={18} />
               Book Appointment
@@ -79,7 +79,7 @@ export function Navbar() {
               {link.name}
             </Link>
           ))}
-          <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="w-full block">
+          <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full block">
             <Button variant="primary" className="w-full gap-2 justify-center">
               <Phone size={18} />
               Book Appointment

@@ -42,7 +42,7 @@ export function Footer() {
               </li>
               <li className="flex gap-3 text-text-muted">
                 <Phone className="text-primary shrink-0" size={20} />
-                <span>+91 9573609720</span>
+                <span>+91 9494837432</span>
               </li>
               <li className="flex gap-3 text-text-muted">
                 <Clock className="text-primary shrink-0" size={20} />

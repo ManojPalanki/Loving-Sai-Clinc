@@ -43,9 +43,11 @@ export function Services() {
 
               {/* CTAs */}
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button variant="primary" className="gap-2 shrink-0">
-                  Book Consultation <ArrowRight size={18} />
-                </Button>
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+                  <Button variant="primary" className="gap-2 shrink-0 w-full">
+                    Book Consultation <ArrowRight size={18} />
+                  </Button>
+                </a>
                 <a href="#services-grid" className="w-full sm:w-auto">
                   <Button variant="secondary" className="w-full">
                     View Services
@@ -146,9 +148,11 @@ export function Services() {
                 </ul>
                 
                 <div className="pt-6">
-                  <button className="bg-white text-[#004ac6] hover:bg-[#faf8ff] hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl inline-flex items-center justify-center">
-                    Book Consultation
-                  </button>
+                  <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer">
+                    <button className="bg-white text-[#004ac6] hover:bg-[#faf8ff] hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl inline-flex items-center justify-center">
+                      Book Consultation
+                    </button>
+                  </a>
                 </div>
               </div>
 
@@ -203,7 +207,7 @@ export function Services() {
                 </div>
                 <h3 className="text-2xl font-bold font-display mb-4 text-text">{service.title}</h3>
                 <p className="text-text-muted leading-relaxed mb-8 flex-grow">{service.desc}</p>
-                <a href="#" className="inline-flex items-center gap-2 font-bold text-primary group-hover:gap-3 transition-all mt-auto">
+                <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 font-bold text-primary group-hover:gap-3 transition-all mt-auto">
                   Book Consultation <ArrowRight size={18} />
                 </a>
               </motion.div>
@@ -303,17 +307,17 @@ export function Services() {
             </div>
             
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <a href="https://wa.me/919573609720?text=Hello%20I%20want%20to%20book%20an%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+              <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                 <Button className="bg-white/10 backdrop-blur-md border border-white/20 text-white hover:bg-white/20 hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full">
                   Book Appointment
                 </Button>
               </a>
-              <a href="tel:+919573609720" className="w-full sm:w-auto">
+              <a href="tel:+919494837432" className="w-full sm:w-auto">
                 <button className="bg-white text-[#004ac6] hover:bg-[#faf8ff] hover:-translate-y-1 shadow-lg transition-all font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center inline-flex items-center">
                   <Phone size={20} /> Call Now
                 </button>
               </a>
-              <a href="https://wa.me/919573609720" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
+              <a href="https://wa.me/919494837432?text=Hello%20Loving%20Sai%20Clinc%20%2CI%20want%20to%20Book%20An%20appointment" target="_blank" rel="noreferrer" className="w-full sm:w-auto">
                 <Button variant="whatsapp" className="font-bold text-lg px-8 py-4 h-auto rounded-2xl w-full gap-2 justify-center hover:-translate-y-1 transition-all">
                   <MessageCircle size={20} /> WhatsApp
                 </Button>
